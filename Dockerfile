@@ -1,4 +1,4 @@
-FROM python:3.9-alpine
+FROM python:3.9-alpine@sha256:d1e2816a7fa6001d5c26279ad70c6749c9cd2f701a27238ff7b18f7579b90b14
 
 # Housekeeping:
 ENV PYTHONDONTWRITEBYTECODE 1
